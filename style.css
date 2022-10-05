@@ -89,6 +89,7 @@ body {
     padding: 16px;
     flex-wrap: wrap;
     justify-content: center;
+    
   }
   
   .box {
@@ -101,3 +102,7 @@ body {
     height: 80px;
   }
   
+  .box-text{
+    display: flex;
+    align-items: center;
+  }
