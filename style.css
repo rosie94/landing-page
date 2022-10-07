@@ -332,61 +332,34 @@ body {
   
   .bottom-container {
   
-    display: flex;
-  
+    display: flex;  
     justify-content: space-around;
-  
     align-items: center;
-  
     background-color:gray;
-  
     height: 80px;
-  
     width: 600px;
-  
     padding: 24px;
   
   }
   
   .left-p1 {
-  
     text-align: left;
-  
-  }
-  
-  .left-box {
-  
     display: flex;
-    flex-direction: column;
-    justify-content: left;
     flex-wrap: wrap;
-  
   }
-  
-   
+
   
   .right-box button.sign-up {
-  
     display: flex;
-  
     justify-content: center;
-  
     align-items: center;
-  
   }
   
   .footer {
-  
-    height: 80px;
-  
+    height: 40px;
     background: #1f2937;
-  
-    color: lightgray;
-  
+    color: lightgray; 
     display: flex;
-  
     justify-content: center;
-  
     align-items: center;
-  
   }
